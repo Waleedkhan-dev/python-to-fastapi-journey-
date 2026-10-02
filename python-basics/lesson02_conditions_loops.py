@@ -9,8 +9,8 @@ else:
     print("Abhi vote nahi de sakte")
 
 # ---------- 2. if / elif / else ----------
-marks = 72
-if marks >= 80:
+marks = 72 
+if marks >= 80: 
     grade = "A"
 elif marks >= 70:
     grade = "B"
