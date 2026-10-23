@@ -80,4 +80,7 @@ for i in range(5,0,-1):
        print()
 for letter in "python":
             print(letter, end= "-")
-            print()
+            print() 
+
+total = 0
+for n in range(1,11)
